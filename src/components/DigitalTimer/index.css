@@ -1,0 +1,98 @@
+/* Write your CSS here */
+.container {
+  background-colo: white;
+  height: 80vh;
+  width: 90vh;
+}
+
+.heading {
+  margin-top: 5px;
+  font-size: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 5px;
+  border-style: solid;
+  border-color: black;
+  font-weight: normal;
+}
+
+.container1 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  text-align: center;
+  height: 10vh;
+  width: 60vh;
+  background-color: white;
+  border-radius: 5px;
+  border-color: yellow;
+}
+
+.container3 {
+  display: flex;
+  flex-direction: row;
+
+  text-align: center;
+  height: 10vh;
+  width: 60vh;
+  background-color: white;
+  border-radius: 2px;
+  border-color: lightgrey;
+  border-style: solid;
+}
+.head2 {
+  height: 45px;
+  width: 70px;
+  font-size: 15px;
+  font-weight: normal;
+  padding-left: 5px;
+  border-style: solid;
+  border-color: white;
+  justify-content: space-around;
+}
+.head1 {
+  font-size: 15px;
+  font-weight: normal;
+  flex-flow: row wrap;
+}
+.border {
+  border-style: solid;
+  border-width: 2px;
+}
+
+.head5 {
+  font-size: 15px;
+  padding-left: 5px;
+}
+
+.head4 {
+  font-size: 15px;
+  padding-left: 5px;
+}
+.heal {
+  color: pink;
+  font-size: 15px;
+}
+
+.des1 {
+  font-size: 15px;
+  font-weight: bold;
+}
+.cont {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  text-align: center;
+  height: 10vh;
+  width: 60vh;
+}
+
+.button1 {
+  height: 50px;
+  width: 70vh;
+  font-size: 20px;
+  background-color: maroon;
+  color: white;
+  font-weight: bold;
+}
